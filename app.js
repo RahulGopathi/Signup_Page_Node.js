@@ -66,4 +66,3 @@ app.listen(process.env.PORT || 3000,function(){
 });
 
 const listId = "8524e304e4";
-const apiKey = "69186abf9ce053e58b0853ea04700ea2-us1";
